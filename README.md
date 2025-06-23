@@ -5,7 +5,9 @@ Temple Fitness is a professionally designed fitness website landing page tailore
 
 The landing page features a sleek black-themed aesthetic combined with neon green highlights for a modern and energetic vibe. With strong visual hierarchy and persuasive text, it encourages visitors to join the gym and start their transformation journey.
 
+
 ✨ Key Features
+
 🏠 Home Section: Bold headline, value proposition, and a call-to-action button to “Join Now”.
 
 📋 Navigation Menu: Smooth navigation to Services, About, Pricing, and Reviews.
@@ -19,6 +21,7 @@ The landing page features a sleek black-themed aesthetic combined with neon gree
 🧾 Informative Text: Clear descriptions of offerings and support from fitness experts.
 
 🛠️ Built With
+
 HTML5 – clean semantic structure
 
 CSS3 – custom styles with attention to typography and layout
