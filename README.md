@@ -31,5 +31,7 @@ JavaScript (optional/expandable) – room for adding interactivity
 (Optional additions: Bootstrap, TailwindCSS, or animation libraries if used)
 
 🎯 Purpose
+
+
 This website serves as a portfolio project to demonstrate skills in front-end development, modern UI/UX design, and branding. It's perfect for showcasing to clients in the health and wellness niche or using as a template for fitness startups.
 
